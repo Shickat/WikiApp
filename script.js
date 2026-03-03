@@ -2,9 +2,9 @@ const urls = [
     'https://shickat.me',
     'https://6b1f847e.wikishickat.pages.dev/',
     'https://wikishickat.pages.dev/',
-    'https://ipfs.io/ipfs/QmUXnKZsLiyhLkGZcm5hMzuSktgiMAHXb3Ckmc9Rf7Lc7s/',
-    'https://ipfs.io/ipns/k51qzi5uqu5djuh4f1w0oladi6rxgf2lkbocof3c1u5mz5k0m3or0lqknppcwa/',
-    'https://bafybeic4aao56umaxhhrlxxrppvtodq2iy6kfixqdxv7olevkr3hi43lsi.ipfs.dweb.link/',
+    'https://ipfs.io/ipfs/QmRy9otB2LYBQ54oF2eQwFKMDdqKqCr3xc85X1wXQD9wL1/',
+    'https://ipfs.io/ipns/k51qzi5uqu5dgkcvogpofvprp6i8i2rtr6ej0li3ueqimgxw3803gjoqhar1uw/',
+    'https://k51qzi5uqu5dgkcvogpofvprp6i8i2rtr6ej0li3ueqimgxw3803gjoqhar1uw.ipns.dweb.link/',
     'https://shickat.blog',
     'https://c6d245aa.shickatblog.pages.dev/',
     'https://shickatblog.pages.dev/'
