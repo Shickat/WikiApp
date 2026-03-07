@@ -2,7 +2,7 @@ const urls = [
     'https://shickat.me',
     'https://6b1f847e.wikishickat.pages.dev/',
     'https://wikishickat.pages.dev/',
-    'https://ipfs.io/ipfs/QmRy9otB2LYBQ54oF2eQwFKMDdqKqCr3xc85X1wXQD9wL1/',
+    'https://ipfs.io/ipfs/QmbNLsFxPtQs5LtQiEx1yGoJ3H2SyfDMxEYnVoMiro5N4C/',
     'https://ipfs.io/ipns/k51qzi5uqu5dgkcvogpofvprp6i8i2rtr6ej0li3ueqimgxw3803gjoqhar1uw/',
     'https://k51qzi5uqu5dgkcvogpofvprp6i8i2rtr6ej0li3ueqimgxw3803gjoqhar1uw.ipns.dweb.link/',
     'https://shickat.blog',
@@ -135,3 +135,4 @@ function showAvailableServers() {
 
 // Iniciar búsqueda cuando se cargue la página
 document.addEventListener('DOMContentLoaded', findAvailableURL);
+
