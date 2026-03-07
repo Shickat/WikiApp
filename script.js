@@ -1,13 +1,13 @@
 const urls = [
     'https://shickat.me',
-    'https://6b1f847e.wikishickat.pages.dev/',
     'https://wikishickat.pages.dev/',
+    'https://663edbd9.wikishickat.pages.dev/',
     'https://ipfs.io/ipfs/QmbNLsFxPtQs5LtQiEx1yGoJ3H2SyfDMxEYnVoMiro5N4C/',
     'https://ipfs.io/ipns/k51qzi5uqu5dgkcvogpofvprp6i8i2rtr6ej0li3ueqimgxw3803gjoqhar1uw/',
     'https://k51qzi5uqu5dgkcvogpofvprp6i8i2rtr6ej0li3ueqimgxw3803gjoqhar1uw.ipns.dweb.link/',
     'https://shickat.blog',
-    'https://c6d245aa.shickatblog.pages.dev/',
-    'https://shickatblog.pages.dev/'
+    'https://shickatblog.pages.dev/',
+    'https://1c7c66d8.shickatblog.pages.dev/'
 ];
 
 const timeout = 5000; // 5 segundos de timeout
@@ -135,4 +135,5 @@ function showAvailableServers() {
 
 // Iniciar búsqueda cuando se cargue la página
 document.addEventListener('DOMContentLoaded', findAvailableURL);
+
 
