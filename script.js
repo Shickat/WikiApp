@@ -7,7 +7,7 @@ const urls = [
     'https://k51qzi5uqu5dgkcvogpofvprp6i8i2rtr6ej0li3ueqimgxw3803gjoqhar1uw.ipns.dweb.link/',
     'https://shickat.blog',
     'https://shickatblog.pages.dev/',
-    'https://af9af5a1.shickatblog.pages.dev/'
+    'https://bed7394e.shickatblog.pages.dev/'
 ];
 
 const timeout = 5000; // 5 segundos de timeout
@@ -135,6 +135,7 @@ function showAvailableServers() {
 
 // Iniciar búsqueda cuando se cargue la página
 document.addEventListener('DOMContentLoaded', findAvailableURL);
+
 
 
 
