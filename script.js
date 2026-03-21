@@ -1,13 +1,13 @@
 const urls = [
     'https://shickat.me',
     'https://wikishickat.pages.dev/',
-    'https://b5168cd1.wikishickat.pages.dev/',
+    'https://a7ab06cb.wikishickat.pages.dev/',
     'https://ipfs.io/ipfs/QmPZCdXHeaep4yxuvRxuShCw6DtHmyHWvXSDafMWxow7rE/',
     'https://ipfs.io/ipns/k51qzi5uqu5dgkcvogpofvprp6i8i2rtr6ej0li3ueqimgxw3803gjoqhar1uw/',
     'https://k51qzi5uqu5dgkcvogpofvprp6i8i2rtr6ej0li3ueqimgxw3803gjoqhar1uw.ipns.dweb.link/',
     'https://shickat.blog',
     'https://shickatblog.pages.dev/',
-    'https://2d60bb55.shickatblog.pages.dev/'
+    'https://e8cf4e80.shickatblog.pages.dev/'
 ];
 
 const timeout = 5000; // 5 segundos de timeout
