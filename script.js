@@ -39,7 +39,7 @@ function updateStatus(text, server = '') {
         statusElement.textContent = text;
     }
     if (serverElement && server) {
-        serverElement.textContent = `Probando: ${server}`;
+        serverElement.textContent = `Probando......`;
     }
 }
 
