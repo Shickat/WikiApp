@@ -1,7 +1,7 @@
 const urls = [
     'https://shickat.me',
     'https://wikishickat.pages.dev/',
-    'https://11b392ec.wikishickat.pages.dev/',
+    'https://4e1458e7.wikishickat.pages.dev/',
     'https://bafybeiex2lmnm7zhnnrcse2ayizwmwfwegsc3fpwnniqzcu4olqgexepom.ipfs.inbrowser.link/',
     'https://ipfs.io/ipfs/QmYZJkE3yiRHUzt9NcUacv2zv53xqMQekBvWrNutjCo9sY',
     'https://ipfs.io/ipns/k51qzi5uqu5dgni30z98zbli9a3vv2xtp8cek1xjikfsels3a259i5clyta19p',
