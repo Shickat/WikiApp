@@ -1,5 +1,5 @@
 const urls = [
-    'https://shickat.me',
+    'https://shickat.online',
     'https://wikishickat.pages.dev/',
     'https://4e1458e7.wikishickat.pages.dev/',
     'https://bafybeiex2lmnm7zhnnrcse2ayizwmwfwegsc3fpwnniqzcu4olqgexepom.ipfs.inbrowser.link/',
