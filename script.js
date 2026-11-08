@@ -2,11 +2,11 @@ const urls = [
     'https://shickat.online',
     'https://shickat20920.pages.dev',
     'https://wikishickat.pages.dev/',
-    'https://4c2bdc3d.wikishickat.pages.dev',
-    'https://7f589a74.wikishickat.pages.dev',
+    'https://44da93ed.shickat20920.pages.dev',
+    'https://0a3fc621.wikishickat.pages.dev',
     'https://shickat.blog',
     'https://shickatblog.pages.dev/',
-    'https://a760e6fe.shickatblog.pages.dev'
+    'https://4e0a1c60.shickatblog.pages.dev'
 ];
 
 const timeout = 5000; // 5 segundos de timeout
